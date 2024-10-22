@@ -15,7 +15,8 @@
     "element-plus": "^2.8.6",
     "mitt": "^3.0.0",
     "node-fetch-native": "^1.0.2",
-    "swiper": "^9.0.5"
+    "swiper": "^9.0.5",
+    "unhead": "^1.11.10"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.35.1",

@@ -1,2 +1,2 @@
 export const TITLE = 'zclub'
-export const COMPANY = '广州瑞威克斯集团有限公司11'
+export const COMPANY = '广州瑞威克斯集团有限公司'
